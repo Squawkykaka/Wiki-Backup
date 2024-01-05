@@ -2,11 +2,13 @@
 title: Home
 description: The Home page
 published: true
-date: 2024-01-05T03:18:56.632Z
+date: 2024-01-05T03:20:07.529Z
 tags: home
 editor: markdown
 dateCreated: 2024-01-05T03:18:56.632Z
 ---
 
 # Header
-Your content here
+Hello Everyone and welcome to my wiki!
+
+This wiki is going to be about random stuff and instrcutions on using my tools
