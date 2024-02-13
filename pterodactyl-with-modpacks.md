@@ -2,7 +2,7 @@
 title: How to run a Pterodcatyl server with a Modpack
 description: 
 published: true
-date: 2024-02-13T19:30:33.957Z
+date: 2024-02-13T19:36:59.452Z
 tags: servers, pterodactyl, minecraft, modpacks
 editor: markdown
 dateCreated: 2024-02-13T02:13:31.850Z
